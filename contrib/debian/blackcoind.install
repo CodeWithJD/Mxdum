@@ -1,0 +1,2 @@
+debian/bin/Mxdumd usr/bin
+src/Mxdumd usr/lib/Mxdum

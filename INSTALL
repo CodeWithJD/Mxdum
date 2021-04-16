@@ -1,0 +1,9 @@
+Building Mxdum
+
+See doc/readme-qt.rst for instructions on building Mxdum QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Mxdum.
+
+See doc/build-*.txt for instructions on building Mxdumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Mxdum.
